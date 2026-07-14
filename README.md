@@ -47,6 +47,6 @@ In the testbench, the system is initialized with an active-high reset for $10\ n
 ---
 
 ## 🛠️ Tools Used
-* **HDL:** Verilog / SystemVerilog
+* **HDL:** Verilog 
 * **Simulator:** Icarus Verilog 0.12.0
 * **Waveform Viewer:** EPWave (EDA Playground)
